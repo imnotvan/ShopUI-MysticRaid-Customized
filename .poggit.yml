@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/David202020/ShopUI-MysticRaid-Customized
+branches:
+- master
+projects:
+  ShopUI-MysticRaid-Customized:
+    path: ""
+...
